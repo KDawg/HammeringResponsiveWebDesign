@@ -6,3 +6,5 @@ This project repo has all of the source code accompanying the 2015 book loaded w
 For more information please visit the book's informative website found here:
 
 http://www.hammeringresponsivewebdesign.com/
+
+Little change to demo branching
